@@ -22,10 +22,10 @@ The user can write all the values into a file, seperated by whitespaces. The fil
 9 6 0  0 0 0  3 0 8
 7 0 0  6 8 0  0 0 0
 0 2 8  0 0 0  0 0 0
-`
+
 #After Solving
 Once solved, the Sudoku puzzles shall be displayed like this.
-`
+
 ++=====================================++
 || 1   7   2 || 5   4   9 || 6   8   3 ||
 ++-----------++-----------++-----------++
@@ -45,4 +45,4 @@ Once solved, the Sudoku puzzles shall be displayed like this.
 ++-----------++-----------++-----------++
 || 5   2   8 || 9   3   4 || 1   6   7 ||
 ++=====================================++
-`
+
